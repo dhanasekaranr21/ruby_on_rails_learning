@@ -21,4 +21,3 @@ puts GoodDog.ancestors
 puts ''
 puts "---HumanBeing ancestors---"
 puts HumanBeing.ancestors
-puts Kernel.class
